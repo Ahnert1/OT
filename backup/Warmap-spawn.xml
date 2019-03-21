@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="1017" centery="1005" centerz="15" radius="1">
+    <npc name="Xertu" x="0" y="-1" z="15" spawntime="60"/>
+  </spawn>
+</spawns>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house houseid="1" owner="Nicloo" paid="0" warnings="0">
+    <accesslist listid="256" text="Necrofilen&#10;Pedofilen&#10;Hell Boy&#10;Drullen hiase&#10;Tiicar"/>
+    <accesslist listid="257" text="Helvetespojken&#10;Niclo&#10;Klockan&#10;"/>
+  </house>
+  <house houseid="2" owner="Boman" paid="0" warnings="0"/>
+  <house houseid="3" owner="Fungi" paid="0" warnings="0">
+    <accesslist listid="256" text="Fungarn&#10;Fungi sorc"/>
+  </house>
+  <house houseid="4" owner="Xardoz" paid="0" warnings="0">
+    <accesslist listid="256" text="Johaan"/>
+    <accesslist listid="1" text="Johaan"/>
+  </house>
+  <house houseid="5" owner="Remi" paid="0" warnings="0"/>
+  <house houseid="6" owner="Caspie" paid="0" warnings="0"/>
+  <house houseid="7" owner="Deren Anya" paid="0" warnings="0">
+    <accesslist listid="256" text="Goku Ssj&#10;Herflik"/>
+    <accesslist listid="257" text="Goku Ssj&#10;Herflik"/>
+  </house>
+  <house houseid="8" owner="Exmind" paid="0" warnings="0">
+    <accesslist listid="256" text="Essei&#10;Kolter"/>
+    <accesslist listid="257" text="Essei&#10;Kolter&#10;Drulle&#10;Sid Vicious&#10;Yxbengt"/>
+  </house>
+  <house houseid="9" owner="Hugragra" paid="0" warnings="0">
+    <accesslist listid="256" text="Caspie&#10;Silent Hill"/>
+    <accesslist listid="1" text="Caspie"/>
+  </house>
+  <house houseid="10" owner="Caspie" paid="0" warnings="0">
+    <accesslist listid="256" text="Berra&#10;Nymme&#10;Silent Hill"/>
+    <accesslist listid="1" text="Silent Hill"/>
+  </house>
+  <house houseid="11" owner="Tormentor" paid="0" warnings="0"/>
+  <house houseid="12" owner="Hjelpen" paid="0" warnings="0">
+    <accesslist listid="256" text="Helvetespojken&#10;"/>
+    <accesslist listid="257" text="Helvetespojken"/>
+  </house>
+  <house houseid="13" owner="Tevi" paid="0" warnings="0">
+    <accesslist listid="256" text="upior"/>
+    <accesslist listid="1" text="upior"/>
+  </house>
+  <house houseid="14" owner="Descent" paid="0" warnings="0"/>
+  <house houseid="15" owner="Biffen" paid="0" warnings="0">
+    <accesslist listid="256" text="Slaktarn&#10;Quentin Tarantino"/>
+  </house>
+  <house houseid="16" owner="Klockan" paid="0" warnings="0">
+    <accesslist listid="256" text="Klockan&#10;Fungi&#10;Biffen&#10;Hjelpen"/>
+    <accesslist listid="257" text="Klockan&#10;Helvetespojken&#10;Pedofilen&#10;Tiicar"/>
+  </house>
+  <house houseid="17" owner="Helvetespojken" paid="0" warnings="0">
+    <accesslist listid="257" text="Hjelpen&#10;Klockan&#10;Tiicar&#10;Pedofilen&#10;Hell Boy&#10;Valeo Livon&#10;"/>
+  </house>
+  <house houseid="18" owner="Master Dakine" paid="0" warnings="0">
+    <accesslist listid="256" text="Elifiasz&#10;&#10;"/>
+  </house>
+  <house houseid="19" owner="Upior" paid="0" warnings="0"/>
+  <house houseid="20" owner="Lobuz" paid="0" warnings="0">
+    <accesslist listid="257" text="Pogromca Swiatla&#10;Beginer&#10;Ozop"/>
+  </house>
+  <house houseid="21" owner="Tralala" paid="0" warnings="0">
+    <accesslist listid="256" text="Elifiasz"/>
+    <accesslist listid="257" text="Elifiasz&#10;Beginer"/>
+  </house>
+  <house houseid="22" owner="Stoned" paid="0" warnings="0">
+    <accesslist listid="257" text="Freedom&#10;"/>
+  </house>
+  <house houseid="23" owner="Niini" paid="0" warnings="0">
+    <accesslist listid="257" text="Erika"/>
+  </house>
+  <house houseid="24" owner="Ghalan" paid="0" warnings="0">
+    <accesslist listid="256" text="Marszczy Fredzio"/>
+    <accesslist listid="257" text="Marszczy Fredzio&#10;"/>
+    <accesslist listid="1" text="Marszczy Fredzio&#10;"/>
+    <accesslist listid="2" text="Marszczy Fredzio"/>
+  </house>
+  <house houseid="25" owner="Dark Wizard" paid="0" warnings="0">
+    <accesslist listid="257" text="Weedarn&#10;Webe"/>
+  </house>
+  <house houseid="26" owner="Sniffarn" paid="0" warnings="0">
+    <accesslist listid="256" text="Bapster&#10;"/>
+  </house>
+  <house houseid="27" owner="Russel Inferno" paid="0" warnings="0">
+    <accesslist listid="256" text="Magnus grimm"/>
+    <accesslist listid="257" text="Magnus grimm&#10;Sliccery&#10;Adrius Galack&#10;"/>
+  </house>
+  <house houseid="28" owner="Goku Ssj" paid="0" warnings="0">
+    <accesslist listid="256" text="Deren Anya"/>
+    <accesslist listid="257" text="Deren Anya&#10;"/>
+  </house>
+  <house houseid="29" owner="Sweet ollat" paid="0" warnings="0">
+    <accesslist listid="256" text="Gurk&#10;Bojjan &#10;Bojjan della sweet"/>
+  </house>
+  <house houseid="30" owner="Yarama" paid="0" warnings="0">
+    <accesslist listid="256" text="Yarama&#10;Ywis"/>
+  </house>
+  <house houseid="31" owner="Johan" paid="0" warnings="0">
+    <accesslist listid="256" text="macke"/>
+    <accesslist listid="257" text="Macke"/>
+  </house>
+  <house houseid="32" owner="Sparkzz" paid="0" warnings="0">
+    <accesslist listid="256" text="Lord Bex&#10;Whitemysticsorcerer&#10;Yellowmysticknight"/>
+    <accesslist listid="257" text="Darkmysticsorcerer"/>
+  </house>
+  <house houseid="33" owner="Ozop" paid="0" warnings="0"/>
+  <house houseid="34" owner="Dragonhunter" paid="0" warnings="0">
+    <accesslist listid="256" text="Dragonfucker&#10;Palardo&#10;arsffg"/>
+  </house>
+  <house houseid="35" owner="Billy" paid="0" warnings="0"/>
+  <house houseid="36" owner="Uncle Dekon" paid="0" warnings="0">
+    <accesslist listid="257" text="Flameberg&#10;Freedom"/>
+    <accesslist listid="1" text="flameberg&#10;freedom"/>
+  </house>
+  <house houseid="37" owner="Kalwi" paid="0" warnings="0"/>
+  <house houseid="38" owner="Tiicar" paid="0" warnings="0">
+    <accesslist listid="256" text="slaktarn&#10;queen del kebab&#10;valeo livon&#10;Drullen hiase&#10;Hell Boy&#10;Valeo&#10;uh mejker&#10;Klockan&#10;Beyaren&#10;fungi&#10;Nicloo&#10;Biffen&#10;Fungarn&#10;Niclo&#10;Fungi sorc&#10;Necrofilen"/>
+    <accesslist listid="257" text="valeo livon&#10;Krythan&#10;klockan&#10;queen del kebab&#10;Mythas"/>
+    <accesslist listid="9" text="Tiicar&#10;Hell Boy&#10;Drullen hiase"/>
+    <accesslist listid="3" text="pedofilen&#10;valeo livon"/>
+    <accesslist listid="6" text="Klockan"/>
+    <accesslist listid="5" text="Helvetespojken&#10;"/>
+  </house>
+  <house houseid="39" owner="Blitz" paid="0" warnings="0"/>
+  <house houseid="40" owner="Silent Hill" paid="0" warnings="0">
+    <accesslist listid="256" text="Caspie&#10;Hugragra&#10;Hali Fax"/>
+    <accesslist listid="4" text="Hugragra"/>
+    <accesslist listid="1" text="Hugragra"/>
+  </house>
+  <house houseid="41" owner="Sparkz" paid="0" warnings="0">
+    <accesslist listid="256" text="Descent&#10;Gangsta&#10;Lord Bex"/>
+    <accesslist listid="257" text="Lord Bex"/>
+  </house>
+  <house houseid="42" owner="Johaan" paid="0" warnings="0">
+    <accesslist listid="256" text="Xardoz"/>
+    <accesslist listid="257" text="Johan&#10;Xardoz&#10;Dorpax"/>
+  </house>
+  <house houseid="43" owner="Koksik" paid="0" warnings="0">
+    <accesslist listid="256" text="Sznapek"/>
+    <accesslist listid="1" text="Sznapek"/>
+  </house>
+  <house houseid="44" owner="Remdila" paid="0" warnings="0"/>
+  <house houseid="45" owner="Keno" paid="0" warnings="0">
+    <accesslist listid="256" text="Macke&#10;"/>
+    <accesslist listid="1" text="Macke&#10;"/>
+  </house>
+  <house houseid="46" owner="Valeo Livon" paid="0" warnings="0">
+    <accesslist listid="256" text="Necrofilen"/>
+    <accesslist listid="257" text="Elajteen&#10;pedofilen&#10;tiicar&#10;queen del kebab"/>
+  </house>
+  <house houseid="49" owner="Arepel" paid="0" warnings="0"/>
+  <house houseid="50" owner="Fungi" paid="0" warnings="0">
+    <accesslist listid="256" text="Fungarn&#10;Klockan&#10;Fungi sorc&#10;Valeo Livon"/>
+    <accesslist listid="257" text="Fungarn"/>
+  </house>
+  <house houseid="51" owner="Dungeon" paid="0" warnings="0"/>
+</houses>

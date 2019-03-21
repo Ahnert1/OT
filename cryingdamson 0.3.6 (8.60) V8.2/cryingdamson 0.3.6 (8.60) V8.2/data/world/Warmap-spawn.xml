@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spawns>
+  <spawn centerx="1016" centery="994" centerz="14" radius="1">
+    <npc name="Calvon" x="-1" y="0" z="14" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1010" centery="994" centerz="15" radius="1">
+    <npc name="Borris" x="0" y="0" z="15" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1016" centery="994" centerz="15" radius="1">
+    <npc name="Bealda" x="0" y="0" z="15" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1017" centery="1005" centerz="15" radius="1">
+    <npc name="Xertu" x="0" y="-1" z="15" spawntime="60"/>
+  </spawn>
+  <spawn centerx="1012" centery="1011" centerz="15" radius="1">
+    <npc name="Alesso" x="0" y="1" z="15" spawntime="60"/>
+  </spawn>
+</spawns>

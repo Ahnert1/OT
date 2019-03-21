@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Xertu" script="data/npc/scripts/default.lua" walkinterval="4500" speed="900" walkradius="2" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="143" head="114" body="114" legs="114" feet="94" addons="3" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. This is where you buy your medal of honour! After proving you are {worthy} of bringing yourself to the battlefield, you can purchase this item. Ask me to {trade}. You can also purchase your addons here."/>
+		<parameter key="message_farewell" value="Goodbye, and good luck |PLAYERNAME|."/>
+		<parameter key="message_bought" value="Bought |ITEMCOUNT| |ITEMNAME|. Good luck on the battlefield!"/>
+		<parameter key="message_needmoney" value="Keep fighting with our army to afford this!"/>
+		<parameter key="message_idletimeout" value="Whatever, don't waste my time."/>
+		<parameter key="message_sendtrade" value="Sure."/>
+		<parameter key="message_alreadyfocused" value="|PLAYERNAME|, don't waste my time. I am already talking to you."/>
+		<parameter key="message_walkaway" value="Whatever."/>
+		<!--KEYWORDS-->
+		<parameter key="module_keywords" value="1"/>
+		<parameter key="keywords" value="worthy"/>
+		<parameter key="keyword_reply1" value="Prove you are worthy by using our current army.  After gaining 1000 gold with our current army, you can then purchase your medal of honour and bring yourself to the battlefield!"/>
+		<!--SHOP-->
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="medal of honour,5785,1000; addon doll,9693,500"/>
+	</parameters>
+</npc>

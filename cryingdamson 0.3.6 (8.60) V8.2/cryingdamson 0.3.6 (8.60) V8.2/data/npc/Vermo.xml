@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vermo" script="data/npc/scripts/default.lua" walkinterval="1500" speed="100" walkradius="2" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="145" head="114" body="114" legs="0" feet="95" addons="3" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Greetings, |PLAYERNAME|. I can sell you temporarily lasting items. Once these items run out you can purchase some more. Remember to get all your free supplies from Alesso!"/>
+		<parameter key="message_farewell" value="Good bye, |PLAYERNAME|."/>
+		<parameter key="message_bought" value="Bought |ITEMCOUNT|x |ITEMNAME| for |TOTALCOST| gold."/>
+		<!--SHOP-->
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="infernal bolt,6529,1;paralyze rune,2278,3;ultimate health potion,8473,1;stone skin amulet,2197,2;might ring,2164,1"/>
+	</parameters>
+</npc>

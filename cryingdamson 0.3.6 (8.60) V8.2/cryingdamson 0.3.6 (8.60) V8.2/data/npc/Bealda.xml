@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Bealda" script="data/npc/scripts/mageshop.lua" walkinterval="4852" speed="100" walkradius="2" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="149" head="94" body="57" legs="94" feet="94" addons="3"/>
+	<parameters>
+	<parameter key="message_walkaway" value="C'ya nerd."/>
+	</parameters>
+</npc>

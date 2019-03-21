@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+  <house name="City Lane 1" houseid="1" entryx="247" entryy="214" entryz="7" rent="0" townid="1" size="221"/>
+  <house name="The City Hall" houseid="2" entryx="294" entryy="207" entryz="7" rent="0" townid="1" size="200"/>
+  <house name="City Lane 2" houseid="3" entryx="268" entryy="208" entryz="7" rent="0" townid="1" size="42"/>
+  <house name="City Lane 3" houseid="4" entryx="270" entryy="206" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="City Lane 4" houseid="5" entryx="257" entryy="185" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="City Lane 5" houseid="6" entryx="281" entryy="196" entryz="7" rent="0" townid="1" size="23"/>
+  <house name="City Lane 6" houseid="7" entryx="266" entryy="197" entryz="7" rent="0" townid="1" size="10"/>
+  <house name="City Lane 7" houseid="8" entryx="277" entryy="190" entryz="7" rent="0" townid="1" size="22"/>
+  <house name="City Lane 8" houseid="9" entryx="273" entryy="180" entryz="7" rent="0" townid="1" size="18"/>
+  <house name="City Lane 9" houseid="10" entryx="265" entryy="180" entryz="7" rent="0" townid="1" size="26"/>
+  <house name="City Lane 10" houseid="11" entryx="258" entryy="185" entryz="7" rent="0" townid="1" size="44"/>
+  <house name="City Lane 11" houseid="12" entryx="279" entryy="186" entryz="7" rent="0" townid="1" size="101"/>
+  <house name="City Lane 12" houseid="13" entryx="291" entryy="199" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="City Lane 13" houseid="14" entryx="296" entryy="227" entryz="7" rent="0" townid="1" size="51"/>
+  <house name="City Lane 14" houseid="15" entryx="259" entryy="206" entryz="7" rent="0" townid="1" size="70"/>
+  <house name="30$ = Spectre Spawn Access" houseid="16" entryx="305" entryy="74" entryz="7" rent="0" townid="1" size="30"/>
+  <house name="The Wooden Hideout" houseid="17" entryx="238" entryy="207" entryz="8" rent="0" townid="1" size="48"/>
+  <house name="Monaria 1" houseid="18" entryx="412" entryy="91" entryz="6" rent="0" townid="1" size="32"/>
+  <house name="Monaria 2" houseid="19" entryx="410" entryy="98" entryz="6" rent="0" townid="1" size="99"/>
+  <house name="Monaria 3" houseid="20" entryx="420" entryy="105" entryz="6" rent="0" townid="1" size="84"/>
+  <house name="Monaria 4" houseid="21" entryx="424" entryy="105" entryz="6" rent="0" townid="1" size="84"/>
+  <house name="Monaria 5" houseid="22" entryx="433" entryy="100" entryz="6" rent="0" townid="1" size="72"/>
+  <house name="Monaria 6" houseid="23" entryx="442" entryy="101" entryz="6" rent="0" townid="1" size="83"/>
+  <house name="Monaria 7" houseid="24" entryx="449" entryy="100" entryz="6" rent="0" townid="1" size="85"/>
+  <house name="Monaria 8" houseid="25" entryx="455" entryy="100" entryz="6" rent="0" townid="1" size="132"/>
+  <house name="Monaria 9" houseid="26" entryx="455" entryy="88" entryz="6" rent="0" townid="1" size="91"/>
+  <house name="Monaria 10" houseid="27" entryx="455" entryy="74" entryz="6" rent="0" townid="1" size="212"/>
+  <house name="Guildhall of Dreams" houseid="28" entryx="438" entryy="115" entryz="6" rent="0" townid="1" size="327"/>
+  <house name="Castera 1" houseid="29" entryx="641" entryy="204" entryz="7" rent="0" townid="1" size="20"/>
+  <house name="Castera 2" houseid="30" entryx="641" entryy="212" entryz="7" rent="0" townid="1" size="36"/>
+  <house name="Castera 3" houseid="31" entryx="636" entryy="215" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="City Shop 2" houseid="32" entryx="266" entryy="162" entryz="7" rent="0" townid="1" size="40"/>
+  <house name="Castera 4" houseid="33" entryx="626" entryy="215" entryz="7" rent="0" townid="1" size="59"/>
+  <house name="Castera 5" houseid="34" entryx="615" entryy="226" entryz="7" rent="0" townid="1" size="52"/>
+  <house name="Castera 6" houseid="35" entryx="614" entryy="203" entryz="7" rent="0" townid="1" size="30"/>
+  <house name="City Shop 3" houseid="36" entryx="264" entryy="158" entryz="7" rent="0" townid="1" size="86"/>
+  <house name="Castera 7" houseid="37" entryx="623" entryy="195" entryz="7" rent="0" townid="1" size="35"/>
+  <house name="The City Villa" houseid="38" entryx="252" entryy="216" entryz="7" rent="0" townid="1" size="205"/>
+  <house name="City Shop 1" houseid="39" entryx="707" entryy="773" entryz="10" rent="0" townid="1" size="6"/>
+  <house name="Northern Villa 4" houseid="40" entryx="273" entryy="142" entryz="7" rent="0" townid="1" size="45"/>
+  <house name="City Shop 4" houseid="41" entryx="264" entryy="167" entryz="7" rent="0" townid="1" size="44"/>
+  <house name="City Shop 5" houseid="42" entryx="254" entryy="153" entryz="7" rent="0" townid="1" size="49"/>
+  <house name="Northern Villa 1" houseid="43" entryx="285" entryy="164" entryz="7" rent="0" townid="1" size="57"/>
+  <house name="Northern Villa 2" houseid="44" entryx="287" entryy="164" entryz="7" rent="0" townid="1" size="57"/>
+  <house name="City Shop 6" houseid="45" entryx="264" entryy="195" entryz="7" rent="0" townid="1" size="28"/>
+  <house name="Northern Villa 3" houseid="46" entryx="253" entryy="160" entryz="7" rent="0" townid="1" size="58"/>
+  <house name="City Lane 16" houseid="49" entryx="245" entryy="179" entryz="7" rent="0" townid="1" size="50"/>
+  <house name="City Lane 17" houseid="50" entryx="258" entryy="178" entryz="7" rent="0" townid="1" size="11"/>
+  <house name="The Bay Shop" houseid="51" entryx="236" entryy="227" entryz="7" rent="0" townid="1" size="9"/>
+</houses>

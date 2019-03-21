@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Alesso" script="data/npc/scripts/default.lua" walkinterval="0" speed="100" walkradius="2" floorchange="0">
+	<health max="100" now="100"/>
+	<look type="253" head="94" body="94" legs="114" feet="114" addons="3" mount="0"/>
+	<parameters>
+		<!--MESSAGES-->
+		<parameter key="message_greet" value="Greetings, |PLAYERNAME| ask me to {trade} to get your supplies for battle."/>
+		<parameter key="message_farewell" value="Good luck, |PLAYERNAME|."/>
+		<parameter key="message_onbuy" value="Here you are. Good luck."/>
+		<parameter key="message_bought" value="Recieved |ITEMCOUNT|x |ITEMNAME|."/>
+		<parameter key="message_needspace" value="You do not have enough capacity."/>
+		<parameter key="message_idletimeout" value="I have others to prepare for war. Get lost!"/>
+		<parameter key="message_sendtrade" value="Sure. All free of course!"/>
+		<parameter key="message_oncloseshop" value="Thank you, come back whenever you're in need of something else."/>
+		<parameter key="message_alreadyfocused" value="|PLAYERNAME|, I am already talking to you."/>
+		<!--SHOP-->
+		<parameter key="module_shop" value="1"/>
+		<parameter key="shop_buyable" value="brown mushroom,2789,0;soulfire rune,2308,0;destroy field rune,2261,0;energy bomb rune,2262,0;soulfire rune,2308,0;destroy field rune,2261,0;fire bomb rune,2305,0;sudden death rune,2268,0;ultimate healing rune,2273,0;strong health potion,7588,0;strong mana potion,7589,0;great mana potion,7590,0;great health potion,7591,0;great spirit potion,8472,0;power bolt,2547,0;avalanche rune,2274,0;great fireball rune,2304,0;magic wall rune,2293,0;explosion rune,2313,0;mana potion,7620,0;assassin star,7368,0;burst arrow,2546,0;power bolt,2547,0;bow,2456,0"/>
+	</parameters>
+</npc>
